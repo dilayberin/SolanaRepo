@@ -1,0 +1,21 @@
+{
+  "name": "lesson2",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start":"node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  }
+  ,
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@solana/web3.js":"^1.91.8",
+    "solana":"^1.0.7-development"
+
+  },
+  
+  "type":"module"
+}
